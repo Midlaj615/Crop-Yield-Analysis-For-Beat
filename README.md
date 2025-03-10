@@ -6,6 +6,8 @@
 - [Dataset Description](#dataset-description)
 - [Project Tasks](#project-tasks)
 - [Tools & Technologies](#tools--technologies)
+- [Key Insights](#key-insights)
+- [Dashboard Features](#dashboard-features)
 - [Repository Structure](#repository-structure)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
