@@ -17,7 +17,7 @@
 This project provides a comprehensive analysis of global crop production trends in the context of climate change during the period of 1961-2022. Using time-series data from the World Bank, the Power BI report visualizes trends, compares regional performance, and highlights the impact of climate variability on agricultural output.
 
 
-![Beat Project](Screenshots/beat%20project.png)
+![Beat Project Screenshot](beat project.png.png)
 
 
 ## Objective
