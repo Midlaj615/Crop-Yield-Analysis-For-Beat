@@ -87,14 +87,19 @@ Climate-Change-Crop-Production-Report/
 1.Clone the Repository
    
    git clone https://github.com/Midlaj615/Climate-Change-Crop-Production-Report.git
+
 2.View the Power BI Report:
    Open PowerBI_Report.pbix in Power BI Desktop or Power BI Service.
+
 3.Review Documentation:
    Open the PDF in the Documentation/ folder for complete project instructions.
+
 4.Explore Data:
    Check the Data_Files/ folder for the dataset used in the analysis.
 
 ## 📬 **Contact**
 Name: Midlaj
+
 LinkedIn: www.linkedin.com/in/midlajac
+
 Email: midlajac615@gmail.com
